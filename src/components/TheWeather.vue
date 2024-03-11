@@ -76,6 +76,7 @@ import DefaultComponent from '@/components/DefaultComponent';
   border: none;
   color: #fff;
   width: 500px;
+  margin: 0 auto;
 }
 .weather_default {
  background-color: #444;

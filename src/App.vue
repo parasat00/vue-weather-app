@@ -25,13 +25,11 @@ body {
 }
 #app {
   width: 100%;
-  display: grid;
-  place-items: center;
   font-family: "Roboto", sans-serif;
+  padding-top: 15px;
 }
 @media only screen and (max-width: 400px) {
 #app {
-  display: block;
   padding-top: 5px;
 }
 }
